@@ -1,0 +1,6 @@
+﻿  ConsoleApplication_ConsoleGame.cpp
+C:\Users\aleks\source\repos\midterm_game\midterm_game\ConsoleApplication_ConsoleGame.cpp(67,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aleks\source\repos\midterm_game\midterm_game\ConsoleApplication_ConsoleGame.cpp(68,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aleks\source\repos\midterm_game\midterm_game\ConsoleApplication_ConsoleGame.cpp(73,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aleks\source\repos\midterm_game\midterm_game\ConsoleApplication_ConsoleGame.cpp(73,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  midterm_game.vcxproj -> C:\Users\aleks\source\repos\midterm_game\midterm_game\x64\Debug\midterm_game.exe
